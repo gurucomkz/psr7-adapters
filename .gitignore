@@ -1,2 +1,4 @@
 /framework/
 /vendor
+/public
+.phpunit.result.cache
